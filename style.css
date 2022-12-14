@@ -1,0 +1,111 @@
+nav {
+	background-color: rosybrown;
+	height: 90px;
+	font-size: 20px;
+	text-align: center;
+}
+
+nav a {
+		
+}
+
+
+
+
+th {
+	background-color: lightsalmon;
+	border: 3px solid darksalmon;
+	opacity: 0.6;
+}
+
+h1 {
+	color: #a60000;
+}
+
+td {
+	border: 3px solid darksalmon;
+}
+
+.pictures {
+	height: 450px;
+	width: 450px;
+}
+
+.box {
+	background-color: lightsalmon;
+	display: flex;
+	justify-content: space-around;
+}
+
+h2 {
+	font-family: bookmanstyle;
+	text-shadow: 3px 3px 5px #BC8F8F;
+}
+
+h3 {
+	font-family: bookmanstyle;
+}
+
+ul {
+	font-family: bookmanstyle;
+}
+
+ol {
+	font-family: bookmanstyle;
+}
+
+.tablica {
+	background-image: url("https://phonoteka.org/uploads/posts/2022-01/1642747781_1-phonoteka-org-p-belii-fon-dlya-saita-1.jpg")
+	opacity: 0.8;
+}
+
+.pos1 {
+	position: relative;
+	left: 5px;
+	top: 25px;
+}
+
+.pos2 {
+	position: relative;
+	right: 20px;
+	top: 50px;
+}
+
+.pos3 {
+	position: relative;
+	right: 40px;
+	top: 80px;
+}
+	
+.photo1 {
+	margin-right: 30px;
+}
+
+.photo2	{
+	margin-left: 30px;
+}
+
+li {
+	margin-bottom: 10px;
+}
+
+.lyalya1 {
+	position: relative;
+	bottom: 500px;
+	left: 630px;
+}
+	
+.abyss {
+	position: relative;
+	bottom: 400px;
+}
+
+section {
+	margin-left: 110px;
+	margin-right: 110px;
+}
+
+footer {
+	background-color: RosyBrown;
+	padding: 20px;
+}
